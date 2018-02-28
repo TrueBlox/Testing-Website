@@ -8,4 +8,4 @@ Our Software is made by 3 students hoping to make browsing the internet a bit sa
 
 Your computer completes tasks to do what it does, when it is flooded with tasks it starts to slow down. The reason it starts to slow down is because it needs to start using bandwith to help complete the tasks.
 
-![alt text](https://github.com/TrueBlox/Testing-Website/blob/master/WatcherNet%20Logo.jpg)
+!(https://github.com/TrueBlox/Testing-Website/blob/master/WatcherNet%20Logo.jpg)
