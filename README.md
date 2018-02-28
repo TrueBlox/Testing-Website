@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to WatcherNet
 
-You can use the [editor on GitHub](https://github.com/TrueBlox/Testing-Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are an organization that provides a free DDOS detection software.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our Software is made by 3 students hoping to make browsing the internet a bit safer than it is currently.
 
-### Markdown
+### What Is A DDOS Attack?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Your computer completes tasks to do what it does, when it is flooded with tasks it starts to slow down. The reason it starts to slow down is because it need to start using bandwith to help complete the tasks.
 
 ```markdown
 Syntax highlighted code block
